@@ -1,6 +1,10 @@
-### The works i have done
+### The works I have done
 
-* To run the project with venv
+* Researched about model deployment and model monitoring processes
+
+* Learned about running code on terminal
+
+* Used these codes to run the project with venv
 
     - cd Desktop/skenariolabs_task/ml-ops
     - python3 -m venv venv
