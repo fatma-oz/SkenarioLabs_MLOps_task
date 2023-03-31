@@ -16,7 +16,10 @@
 
 * Arranged codes in main.py
 
-* Runned ml-ops file on the terminal (HTTP 404,402,422 errors received , I tried to solve)
+* Changed "2" and "19720" -->> 2 and 19720 in the request_item file (because they are defined as integer)
+
+* Runned ml-ops file on the terminal (HTTP 404,402,422 errors received , I tried to solve) 
+error: {"detail":[{"loc":["body"],"msg":"field required","type":"value_error.missing"}]}
 
 
 ### Read me
