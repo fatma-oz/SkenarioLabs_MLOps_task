@@ -12,9 +12,9 @@ class RequestItem(BaseModel):
         schema_extra = {
             "example": {
                 "bed": 3,
-                "bath": "2",
+                "bath": 2,
                 "acre_lot": 1.5,
-                "zip_code": "19720",
+                "zip_code": 19720,
                 "house_size": 2000,
             }
         }
