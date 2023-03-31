@@ -16,7 +16,7 @@
 
 * Created monitoring_testing.py file 
 
-* Writed and imported monitoring_testing to main.py file (in src file)
+* Writed codes in monitoring_testing.py file and imported  to main.py file (in src file)
 
 * Arranged codes in main.py
 
