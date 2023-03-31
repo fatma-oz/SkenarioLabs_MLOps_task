@@ -4,7 +4,7 @@
 
 * Learned about running code on terminal
 
-* Learned about how to work with virtual environments and used these codes to run the project with venv
+* Learned about how to work on projects with virtual environments and used these codes to run the project with venv
 
     - cd Desktop/skenariolabs_task/ml-ops
     - python3 -m venv venv
